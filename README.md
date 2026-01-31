@@ -1,4 +1,4 @@
-# CODETECH Internship – Task 3: Dashboard Development
+# CodeTech Internship – Task 3: Dashboard Development
 
 ## 📌 Objective
 Create an interactive dashboard to visualize a dataset, demonstrating actionable insights.
