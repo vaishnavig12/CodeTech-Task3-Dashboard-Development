@@ -4,19 +4,20 @@
 Create an interactive dashboard to visualize a dataset, demonstrating actionable insights.
 
 ## 📊 Dataset
-Include the dataset used for dashboard development (inside `data/` folder)
+- `spotify_analysis_dataset.csv` (inside `data/` folder)
 
-## 🛠️ Tools & Technologies
-- Tableau / Power BI / Dash (Python)  
-- Pandas, NumPy (for preprocessing)  
-- Matplotlib / Seaborn (optional for charts)  
+## 🛠️ Tools
+- Power BI Desktop
+- Optional: Python for visuals
 
 ## 🔍 Workflow
-- Data preprocessing  
-- Dashboard design and layout  
-- Interactive visualizations (filters, slicers, charts)  
-- Screenshot export of dashboard  
+- Data loading & cleaning
+- Create bar charts, line charts, pie charts
+- Add slicers/filters
+- Design interactive dashboard
+- Export screenshots for submission
 
 ## 📁 Project Structure
-# CodeTech-Task3-Dashboard-Development
-Interactive dashboard development for CODETECH Internship using Tableau or Power BI
+data/ → Dataset(s)
+dashboard/ → Power BI file (.pbix)
+plots/ → Screenshots of dashboard
